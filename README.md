@@ -1,4 +1,4 @@
-# 🧠 Dental Health QA Chatbot using LangChain & OpenAI
+# 🧠 Context-Aware QA System Using RAG and LangChain
 
 This project demonstrates the creation of a **question-answering chatbot** that provides answers related to **dental health** using a **retrieval-based QA system** built with **LangChain**, **OpenAI's GPT model**, and a **vector database**.
 
