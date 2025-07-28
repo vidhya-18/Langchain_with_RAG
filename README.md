@@ -2,7 +2,7 @@
 
 This project demonstrates the creation of a **question-answering chatbot** that provides answers related to **dental health** using a **retrieval-based QA system** built with **LangChain**, **OpenAI's GPT model**, and a **vector database**.
 
-📎 [Click here to open the project notebook in Google Colab](https://colab.research.google.com/drive/1syhiGmzEiyk8oc3GqypMnS3ywWEzwdGQ)
+📎 [Click here to open the project notebook in Google Colab](https://colab.research.google.com/drive/1j5t3BYuRCFiUZVO_G1X3sTY8EuBfyRIO?usp=sharing)
 
 ---
 
